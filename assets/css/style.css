@@ -1,0 +1,76 @@
+/*Estilos da página index.html*/
+
+.center {
+    text-align: center;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.fs-21 {
+    font-size: 21px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+#menu li a:hover {
+    color: gray;
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.wd-300 {
+    width: 300px;
+    height: 300px;
+}
+
+.tm-redesocial {
+    width: 30px;
+    height: 30px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+body {
+    background-image: url("https://thumbs.dreamstime.com/b/background-image-light-brown-wood-floor-beautiful-pattern-146647202.jpg");
+  }
+
+/*Estilos da página contato.html*/
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
